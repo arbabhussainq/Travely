@@ -48,7 +48,7 @@ Travelers often struggle to find accurate and centralized information about city
 | **Backend**           | Firebase Authentication + Firestore               |
 | **APIs**              | Wikipedia REST API, Unsplash API                  |
 | **Version Control**   | GitHub                                            |
-| **Hosting / Storage** | Firebase                                          |
+| **Hosting / Storage** | Firebase Firestore                                |
 
 ---
 
@@ -116,6 +116,7 @@ This project is for **educational purposes** under MUET Jamshoro.
 Free to use and modify with proper credit to the authors.
 
 ---
+
 
 
 
